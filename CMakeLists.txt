@@ -4,3 +4,4 @@ project(usaco)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(00622 2016/February/Gold/p2.cpp)
+add_executable(00815 2018/February/Gold/p3.cpp)
